@@ -1,4 +1,4 @@
-package com.github.laxminarayannsharma;
+package io.github.laxminarayannsharma;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

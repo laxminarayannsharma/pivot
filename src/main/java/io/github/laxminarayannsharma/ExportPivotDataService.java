@@ -1,4 +1,4 @@
-package com.github.laxminarayannsharma;
+package io.github.laxminarayannsharma;
 
 import java.util.*;
 
