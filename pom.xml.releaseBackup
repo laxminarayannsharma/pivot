@@ -3,7 +3,7 @@
 
   <groupId>io.github.laxminarayannsharma</groupId>
   <artifactId>pivot</artifactId>
-  <version>1.0.3-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>${project.groupId}:${project.artifactId}</name>
@@ -36,7 +36,7 @@
     <connection>scm:git:git://github.com/laxminarayannsharma/pivot.git</connection>
     <developerConnection>scm:git:https://laxminarayannsharma@github.com/laxminarayannsharma/pivot.git</developerConnection>
     <url>https://github.com/laxminarayannsharma/pivot</url>
-    <tag>pivot-1.0.3</tag>
+    <tag>pivot-1.0.1</tag>
   </scm>
 
 
