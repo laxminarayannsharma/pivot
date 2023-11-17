@@ -3,7 +3,7 @@
 
   <groupId>io.github.laxminarayannsharma</groupId>
   <artifactId>pivot</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1</version>
   <packaging>jar</packaging>
 
   <name>${project.groupId}:${project.artifactId}</name>
